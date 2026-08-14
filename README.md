@@ -8,7 +8,7 @@ This repository contains four practical Data Science tasks completed using Pytho
 
 ### 🔹 Task 01 – Data Visualization
 
-**[View Task 01 →](YOUR-LINK-HERE)**
+**[View Task 01 →](https://colab.research.google.com/drive/1aNL0mqXjJGfUdZoJwRGGhjjVOzzSAtnE?usp=sharing)**
 
 Create bar charts and histograms to visualize categorical and continuous variables and understand data distributions.
 
