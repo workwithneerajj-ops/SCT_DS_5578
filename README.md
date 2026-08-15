@@ -18,7 +18,7 @@ Create bar charts and histograms to visualize categorical and continuous variabl
 
 ### 🔹 Task 02 – Data Cleaning & EDA
 
-**[View Task 02 →](YOUR-LINK-HERE)**
+**[View Task 02 →](https://colab.research.google.com/drive/1aNL0mqXjJGfUdZoJwRGGhjjVOzzSAtnE?usp=sharing)**
 
 Clean and analyze the Titanic dataset using Exploratory Data Analysis (EDA). Handle missing values, explore relationships, and identify patterns and trends.
 
@@ -28,7 +28,7 @@ Clean and analyze the Titanic dataset using Exploratory Data Analysis (EDA). Han
 
 ### 🔹 Task 03 – Customer Purchase Prediction
 
-**[View Task 03 →](YOUR-LINK-HERE)**
+**[View Task 03 →](https://colab.research.google.com/drive/1_Q3OWy0g2xPCfXiIAE1Aslns8X9jxoCd?usp=sharing)**
 
 Build a Decision Tree model to predict whether a customer will purchase a product or service based on demographic and behavioral data using the Bank Marketing dataset.
 
@@ -38,7 +38,7 @@ Build a Decision Tree model to predict whether a customer will purchase a produc
 
 ### 🔹 Task 04 – Traffic Accident Analysis
 
-**[View Task 04 →](YOUR-LINK-HERE)**
+**[View Task 04 →](https://colab.research.google.com/drive/1_8nUHliJ0WM78J_mSY7ralmULaenMBmW?usp=sharing)**
 
 Analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualize accident hotspots and contributing factors.
 
